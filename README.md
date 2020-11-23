@@ -6,12 +6,15 @@
 3) из того адреса нам нужно содержание только одного поля это access_token. Ссылка будет примерно такой (токен здесь не настоящий):
 https://oauth.vk.com/blank.html#**access_token**=799120251fccgggg97e3be5778944ff78d8e23a18c6dd04f5c698111a0ddeaa68d79a7d129b148a99c2a43f32&expires_in=86400&user_id=106131559
 4) копируем содержание access_token и вставляем в script.js в функцию в пустое поле params['access_token'] =:
+
+```html
 function getUrl(method, params){
     if (!method) throw new Error('Вы не указали метод!');
     params = params || {};
     params['access_token'] = '';
     return 'https://api.vk.com/method/' + method + '?' + $.param(params) + '&v=5.62';
 }
+```
 
 5) сохраняем и можно запускать программу
 
