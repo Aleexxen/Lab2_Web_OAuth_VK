@@ -6,7 +6,7 @@ $('#profile').on('click', loadProfile);
 function getUrl(method, params){
     if (!method) throw new Error('Вы не указали метод!');
     params = params || {};
-    params['access_token'] = '799120251fcc97e3be5778944ff78d8e23a18c6dd04f5c698111a0ddeaa68d79a7d129b148a99c2a43f32';
+    params['access_token'] = '';
     return 'https://api.vk.com/method/' + method + '?' + $.param(params) + '&v=5.62';
 }
 
