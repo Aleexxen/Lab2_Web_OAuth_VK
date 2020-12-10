@@ -1,7 +1,7 @@
 # Lab2_Web_OAuth_VK
 
 Для того, чтобы воспользоваться программой, нужно получить access_token. Для этого:
-1) переходим по ссылке <https://oauth.vk.com/authorize?client_id=7664884&display=page&redirect_uri=&scope=friends&response_type=token&v=5.52>
+1) переходим по ссылке <https://oauth.vk.com/authorize?client_id=7664884&display=page&redirect_uri=localhost&scope=friends&response_type=token&v=5.52>
 2) копируем адрес страницы, на которую мы перешли
 3) из того адреса нам нужно содержание только одного поля это access_token. Ссылка будет примерно такой (токен здесь не настоящий):
 https://oauth.vk.com/blank.html#**access_token**=799120251fccgggg97e3be5778944ff78d8e23a18c6dd04f5c698111a0ddeaa68d79a7d129b148a99c2a43f32&expires_in=86400&user_id=106131559
