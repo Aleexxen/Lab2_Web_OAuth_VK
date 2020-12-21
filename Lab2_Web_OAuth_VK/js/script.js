@@ -149,6 +149,10 @@ function drawProfile(profile){
 //     });
 // }
 
+// function sendRequest(method, params){
+//     url = getUrl('friends.search', {count: 60, fields: jgjgk})
+// }
+
 // function loadProfile(){
 //     sendRequest('users.get', {user_ids: 'morti_sunset', fields: 'photo_100'}, function(data){
 //         console.log(data);
