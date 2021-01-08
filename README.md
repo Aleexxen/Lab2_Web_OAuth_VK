@@ -28,3 +28,15 @@
 Для добавления тела запроса можно пользоваться разными методами, я пользовалась x-www-form-urlencoded
 
 Не забудьте перед этим запустить сервер (node Lab3_Web/js/lab3_script.js)
+
+Скриншоты:
+D:\Visual Studio Code Projects\Lab3_Web\scrinshots\post1.png
+D:\Visual Studio Code Projects\Lab3_Web\scrinshots\post1console.png
+D:\Visual Studio Code Projects\Lab3_Web\scrinshots\post2.png
+D:\Visual Studio Code Projects\Lab3_Web\scrinshots\post2console.png
+D:\Visual Studio Code Projects\Lab3_Web\scrinshots\put1.png
+D:\Visual Studio Code Projects\Lab3_Web\scrinshots\put1console.png
+D:\Visual Studio Code Projects\Lab3_Web\scrinshots\patch1.png
+D:\Visual Studio Code Projects\Lab3_Web\scrinshots\patch1console.png
+D:\Visual Studio Code Projects\Lab3_Web\scrinshots\get1.png
+D:\Visual Studio Code Projects\Lab3_Web\scrinshots\get1console.png
