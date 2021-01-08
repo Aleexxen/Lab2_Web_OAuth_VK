@@ -29,14 +29,13 @@
 
 Не забудьте перед этим запустить сервер (node Lab3_Web/js/lab3_script.js)
 
-Скриншоты:
+![Скриншоты:](https://github.com/Aleexxen/Lab2_Web_OAuth_VK/blob/master/Lab3_Web/scrinshots/post1.png)
+![](https://github.com/Aleexxen/Lab2_Web_OAuth_VK/blob/master/Lab3_Web/scrinshots/post1console.png)
+![](https://github.com/Aleexxen/Lab2_Web_OAuth_VK/blob/master/Lab3_Web/scrinshots/post2.png)
+![](https://github.com/Aleexxen/Lab2_Web_OAuth_VK/blob/master/Lab3_Web/scrinshots/post2console.png)
+![](https://github.com/Aleexxen/Lab2_Web_OAuth_VK/blob/master/Lab3_Web/scrinshots/put1.png)
+![](https://github.com/Aleexxen/Lab2_Web_OAuth_VK/blob/master/Lab3_Web/scrinshots/put1console.png)
+![](https://github.com/Aleexxen/Lab2_Web_OAuth_VK/blob/master/Lab3_Web/scrinshots/patch1.png)
+![](https://github.com/Aleexxen/Lab2_Web_OAuth_VK/blob/master/Lab3_Web/scrinshots/patch1console.png)
 ![](https://github.com/Aleexxen/Lab2_Web_OAuth_VK/blob/master/Lab3_Web/scrinshots/get1.png)
-D:\Visual Studio Code Projects\Lab3_Web\scrinshots\post1console.png
-D:\Visual Studio Code Projects\Lab3_Web\scrinshots\post2.png
-D:\Visual Studio Code Projects\Lab3_Web\scrinshots\post2console.png
-D:\Visual Studio Code Projects\Lab3_Web\scrinshots\put1.png
-D:\Visual Studio Code Projects\Lab3_Web\scrinshots\put1console.png
-D:\Visual Studio Code Projects\Lab3_Web\scrinshots\patch1.png
-D:\Visual Studio Code Projects\Lab3_Web\scrinshots\patch1console.png
-D:\Visual Studio Code Projects\Lab3_Web\scrinshots\get1.png
-D:\Visual Studio Code Projects\Lab3_Web\scrinshots\get1console.png
+![](https://github.com/Aleexxen/Lab2_Web_OAuth_VK/blob/master/Lab3_Web/scrinshots/get1console.png)
